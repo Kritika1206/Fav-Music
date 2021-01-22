@@ -4,5 +4,6 @@ public class Music {
         System.out.println("Parmeet, Mexico");
         System.out.println("Chizi, J-pop");
         System.out.println("Bhavika, K-pop");
+        System.out.println("Kritika,Arabic");
     }
 }
